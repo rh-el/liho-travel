@@ -1,7 +1,7 @@
 
 # Liho – Your personal assistant for your next group trip ✈️
 
-Liho is an Android mobile application designed to simplify the organization of group trips. It centralizes all essential travel details in one user-friendly app.
+Liho is an Android mobile application designed to simplify the organization of group trips. It centralizes all essential travel details in one user-friendly app. \
 Its UI was designed mobile-first on Figma.
 
 ### ✨ Main Features
