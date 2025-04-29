@@ -17,14 +17,14 @@ Automatic budget calculation for each user based on his trip duration, transport
 
 
 ### 🛠️ Tech Stack
-#### 📱 Mobile
+#### 📱 Mobile - MVVM
 Language: Kotlin 
 
 UI Framework: Jetpack Compose
 
 Tools: Retrofit, MaterialUI
 
-#### 🖥️ Server
+#### 🖥️ REST API
 Language: Python 
 
 Framework: Fast API
