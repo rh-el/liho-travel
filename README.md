@@ -32,6 +32,6 @@ Framework: Fast API
 Tools: SQLModel, Pydantic, SQLAlchemy
 
 ### 📷 Screenshots
-<img src="https://github.com/user-attachments/assets/bae09107-7d0c-43f4-8195-3a49773377fa" width="200">
+<img src="https://github.com/user-attachments/assets/e9897fd7-15b5-4d44-bba0-80c1ecb56e20" width="200">
 <img src="https://github.com/user-attachments/assets/545de750-9481-4081-a1cd-f55ff3e7ae0e" width="200">
 <img src="https://github.com/user-attachments/assets/6d0d3f27-edd1-400f-ac63-a7cd96e945b2" width="200">
