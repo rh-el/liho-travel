@@ -1,0 +1,9 @@
+fastapi
+fastapi[standard]
+sqlmodel
+uvicorn
+psycopg2-binary
+python-dotenv
+supabase
+alembic
+faker
